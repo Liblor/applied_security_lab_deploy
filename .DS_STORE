@@ -1,0 +1,3 @@
+#/bin/bash
+
+touch /home/coreca/app/CertServer.dll
